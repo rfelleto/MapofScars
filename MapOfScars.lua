@@ -470,7 +470,7 @@ local function EQ_Consider()
             r,g,b = 1,0.5,0 
         else
             difficulty = "What would you like your tombstone to say?"
-            r,g,b = 1,0.5,0 
+            r,g,b = 1,0,0 
         end
     else
         -- Normal mob difficulty
@@ -494,7 +494,7 @@ local function EQ_Consider()
             r,g,b = 1,0.5,0
         else
             difficulty = "What would you like your tombstone to say?"
-            r,g,b = 1,0.5,0
+            r,g,b = 1,0,0
         end
     end
 
