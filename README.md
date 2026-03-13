@@ -5,6 +5,7 @@ MapOfScars + Consider - a World of Warcraft (1.12.1) AddOn (modification, backpo
 Installation:
 
 Put "MapOfScars " folder into ".../World of Warcraft/Interface/AddOns/". Create AddOns folder if necessary
+Remove the "-main" from the folder name
 
 In-game: Create a macro or type in /consider to examine your health status (no target) or your target just like in Everquest. Bind the macro to a specific key for easy use. Sorry I couldn't be bothered to create a key binding interface. I suck at coding.
 
