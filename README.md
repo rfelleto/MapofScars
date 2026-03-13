@@ -21,7 +21,8 @@ This addon does the following:
 
 Known Issues:
 
-Lack of support for debuff tracking (use the combat log you Everquest nerds)
+- Lack of support for debuff tracking (use the combat log you Everquest nerds)
+- Lack of support for combo point display (I recommend using NugComboBar for that: https://turtle-wow.fandom.com/wiki/NugComboBar
 
 
 I am not the original author of this AddOn, see https://github.com/Lanrutcon/MapOfScars. ChatGPT just coded the consider mechanic in, please don't judge me.
