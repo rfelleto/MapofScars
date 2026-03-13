@@ -480,9 +480,9 @@ local function EQ_Consider()
         elseif diff <= -3 then
             difficulty = "Looks like you would have the upper hand."
             r,g,b = 0.2,0.6,1 
-        elseif diff <= 0 then
+        elseif diff == 0 then
             difficulty = "Looks like an even fight."
-            r,g,b = 0.2,0.6,1 
+            r,g,b = 1,1,1 
         elseif diff <= 2 then
             difficulty = "Looks kind of risky, but you might win."
             r,g,b = 1,1,0
