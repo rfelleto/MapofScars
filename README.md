@@ -14,7 +14,7 @@ This addon does the following:
 
 - Unbinds your world map key (who needs maps, draw one in your hello kitty notebook like real man)
 - Removes player frame - You can press the consider keybind to check your health status
-- Removes target frame - makes every creature feel unique an dangerous. Press the consider keybind to get a brief description of the creature status towards you and its difficulty.
+- Removes target frame - makes every creature feel unique and dangerous. Press the consider keybind to get a brief description of the creature status towards you and its difficulty.
 - Adds a compass to the top - Real man use compasses, like pirates
 
 
