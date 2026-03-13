@@ -11,6 +11,8 @@ Installation:
 Put "MapOfScars " folder into ".../World of Warcraft/Interface/AddOns/". Create AddOns folder if necessary
 Remove the "-main" from the folder name
 
+Command: /consider
+
 In-game: Create a macro or type in /consider to examine your health status (no target) or your target just like in Everquest. Bind the macro to a specific key for easy use. Sorry I couldn't be bothered to create a key binding interface. I suck at coding.
 
 Description: Everquest is an amazing game and Wow was mostly inspired by many of it's systems. The goal of this addon is to increase immersion by getting rid of systems and information that streamline the gameplay.
