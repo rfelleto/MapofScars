@@ -1,6 +1,8 @@
 MapOfScars + Consider - a World of Warcraft (1.12.1) AddOn (modification, backport)
 
 ![image](https://i.ibb.co/9mWMgbxg/Wo-WScrn-Shot-031126-230923.jpg)
+![image](https://i.ibb.co/YTBxv4h0/Wo-WScrn-Shot-031226-232622.jpg)
+
 
 ====================================
 
