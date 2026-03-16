@@ -22,6 +22,7 @@ This addon does the following:
 - Displays trivial quests as grey difficulty in the quest log (like retail, however in turtle you still get xp for those)
 - Unbinds your world map key (who needs maps, draw one in your hello kitty notebook like real man)
 - Removes player frame - You can press the consider keybind to check your health status, you can also use TNELow health warning for added visual queue (https://github.com/aim2kill/Wow1.12.1_Addons_Collection/tree/master/TNE_LowHealthWarning_v2.2.2/TNE_LowHealthWarning)
+- Removes the Pet frame - You can press the consider keybind to check your pet's happiness and health status.
 - Removes target frame - makes every creature feel unique and dangerous. Press the consider keybind to get a brief description of the creature status towards you and its difficulty.
 - Adds a compass to the top - Real man use compasses, like pirates
 
